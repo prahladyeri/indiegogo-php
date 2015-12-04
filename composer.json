@@ -1,7 +1,6 @@
 {
     "name": "prahladyeri/indiegogo",
     "type": "library",
-	 "version": "dev-master",
     "description": "An unofficial Indiegogo client library",
     "keywords": ["indiegogo","contributions","comments"],
     "homepage": "https://github.com/prahladyeri/indiegogo-php",
