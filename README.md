@@ -5,7 +5,7 @@
 - Add the following require to your `composer.json` require block:
 
     "require": {
-        "prahladyeri/indiegogo": "dev-master"
+        "prahladyeri/indiegogo": "*"
     }
 
 - Update composer:
